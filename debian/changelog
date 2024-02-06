@@ -1,0 +1,5 @@
+python-toml (100:0.10.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/uiri/toml/releases/tag/0.10.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 06 Feb 2024 22:55:20 +0800
